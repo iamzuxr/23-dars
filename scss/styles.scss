@@ -13,7 +13,7 @@
         .sitenav-list__link-iteam{
             font-size: 16px;
             color: grey;
-            font-family: sans-serif;
+            font-family:sans-serif;
             text-decoration: none;
             text-transform: uppercase;
         }
@@ -44,10 +44,11 @@
     background-size: contain;
     background-repeat: no-repeat;
     border-radius: 10px;
+    font-family: 'Indie Flower', cursive;
     &__title{
         width: 500px;
         color: whitesmoke;
-        font-family: sans-serif;
+        font-family: 'Indie Flower',cursive;
         font-size: 60px;
         padding-top: 100px;
         padding-left: 100px;
@@ -55,7 +56,6 @@
     &__text{
         width: 500px;
         color: whitesmoke;
-        font-family: sans-serif;
         padding-left: 100px;
     }
     .site-button{
